@@ -1,0 +1,1 @@
+print("This is a Python script that can be executed from the command line. ")
