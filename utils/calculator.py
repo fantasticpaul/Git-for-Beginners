@@ -1,2 +1,5 @@
 def add_nums(a,b):
     return a + b
+
+def devide_nums(a,b):
+    return a / b
