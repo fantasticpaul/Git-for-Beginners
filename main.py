@@ -1,4 +1,5 @@
-from utils.calculator import add_nums, devide_nums, subtract_nums, power
+from utils.calculator import add_nums, devide_nums, subtract_nums, power, multiply_nums
+
 
 
 if __name__ == "__main__":
@@ -6,3 +7,4 @@ if __name__ == "__main__":
     print(devide_nums(10,2))
     print(subtract_nums(5,2))
     print(power(2,3))
+    print(multiply_nums(4,5))
